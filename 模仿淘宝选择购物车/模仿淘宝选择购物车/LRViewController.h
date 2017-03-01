@@ -1,5 +1,5 @@
 //
-//  CLViewController.h
+//  LRViewController.h
 //  模仿淘宝选择购物车
 //
 //  Created by leilurong on 2017/1/23.
